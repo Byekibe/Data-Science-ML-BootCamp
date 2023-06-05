@@ -14,4 +14,4 @@
 - Remove missing data
 - remove incomplete data
 - Remove innacurate data
-- Format data e.g removing special xters
+- Format data e.g removing special characters
